@@ -7,5 +7,8 @@ public class Studienberatung{
 		if (answer.equalsIgnoreCase("n"){
 			System.out.println("Hast du Fachabitur?");
 		}
+		else if (answer.equalsIgnoreCase("j"){
+			System.out.println("Bist du wissbegierig?");
+		}
 	}
 }
