@@ -4,5 +4,8 @@ public class Studienberatung{
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Hast du Abitur?");
 		String answer = scanner.next();
+		if (answer.equalsIgnoreCase("n"){
+			
+		}
 	}
 }
