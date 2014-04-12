@@ -5,8 +5,7 @@ public class Studienberatung{
 		System.out.println("Hast du Abitur?");
 		String answer = scanner.next();
 		if (answer.equalsIgnoreCase("j"){
-			System.out.println("Bist du wissbegierig?"){
-			}
+			System.out.println("Bist du wissbegierig?");
 		}
 	}
 }
